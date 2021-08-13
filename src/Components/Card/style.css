@@ -1,0 +1,17 @@
+.principal_img{
+    border-radius: 2rem;
+    width: 190vh;
+    height: 45vh;
+    margin-top: 3rem;
+    margin-left: 4rem; 
+    margin-right: 4rem;
+    
+}
+
+.title{
+    color: black;
+    position: relative;
+    size: 5rem;
+    margin-top: 4rem;
+    margin-left: 5rem;
+}
